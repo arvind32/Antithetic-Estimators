@@ -34,7 +34,7 @@ I followed the formula and implemented the estimators using first the Mallows Ke
 
 I used the [SUSHI preference dataset](http://www.kamishima.net/sushi/) to get a full Gram matrix and semimetric matrix for partial rankings. This was done for 100 users, with MC sample size of 20, and partial rankings obtained by masking the bottom 6 ranks for each respondent.
 
-I then used these distance matrices as inputs to the Sci-kit Learn Agglomerative Clustering method to compare tree purities.
+I then used these distance matrices as inputs to the scikit-learn Agglomerative Clustering method to compare tree purities.
 
 ### Results
 
