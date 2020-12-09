@@ -49,7 +49,7 @@ The tree purities are similar to what is obtained using the full ranking data, s
 
 1. The 100 samples chosen from the dataset of 5000 examples made a big difference. This is quite possible, if the clusters are skewed.
 2. The *median distance criterion* used by the authors for exponential kernels was different. There appears to be **no consensus** around what this criterion means. I used the formula empirically recommended by [this paper](https://arxiv.org/pdf/1708.05106.pdf) (page 3).
-3. Or quite simply, I coded the negative-type semimetric different from how the authors intended.
+3. Or quite simply, I didn't code the negative-type semimetric how the authors intended.
 
 ---
 
