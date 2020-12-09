@@ -55,6 +55,7 @@ The tree purities are similar to what is obtained using the full ranking data, s
 
 ### Future Directions to Extend This Work
 
+- Lattice kernels
 - Kemeny consensus: [link](https://pastel.archives-ouvertes.fr/tel-01983274/)
 - Latin hypercube sampling: [link](https://projecteuclid.org/euclid.ejs/1580202025)
 - Geometrically coupled sampling: [link](https://proceedings.neurips.cc/paper/2018/hash/b3e3e393c77e35a4a3f3cbd1e429b5dc-Abstract.html)
